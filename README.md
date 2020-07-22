@@ -1,6 +1,6 @@
 # campus_market_app
 
-A new Flutter application.
+this mobile app is for my web app project. www.capmpusmarkethub.com
 
 
 
